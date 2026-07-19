@@ -1,0 +1,8 @@
+In this challenge, you need to calculate and print the sum of elements in an array, considering that some integers may be very large.
+
+Function Description:
+Complete the aVeryBigSum function with the following parameter(s):
+* int ar[n]: an array of integers.
+
+Return:
+* long: the sum of the array elements.
