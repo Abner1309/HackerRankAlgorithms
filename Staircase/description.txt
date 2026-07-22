@@ -1,0 +1,10 @@
+Staircase detail
+
+This is a staircase of size n = 4:
+
+   #
+  ##
+ ###
+####
+
+Write a program that prints a staircase of size n.
