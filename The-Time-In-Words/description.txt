@@ -1,0 +1,2 @@
+Given the time in numerals we may convert it into words.
+At minutes = 0, use o' clock. For 1 <= minutes <= 30, use past, and for 30 < minutes use to.
