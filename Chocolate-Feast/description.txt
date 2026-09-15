@@ -1,0 +1,1 @@
+Brenno loves chocolate and goes to the store with $N in his pocket. The price of each chocolate is $C. The store offers a discount: for every M wrappers he hands in, he gets a free chocolate. How many chocolates can Brenno eat?
