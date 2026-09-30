@@ -1,0 +1,10 @@
+Given an array of integers, determine whether the array can be sorted in ascending order using only one of the following operations one time.
+1. Swap two elements.
+2. Reverse one sub-segment.
+Determine whether one, both or neither of the operations will complete the task. Output is as follows.
+1. If the array is already sorted, output yes on the first line. You do not need to output anything else.
+2. If you can sort this array using one single operation (from the two permitted operations) then output yes on the first line and then: 
+- If elements can only be swapped, d[l] and d[r], output swap l r in the second line. l and r are the indices of the elements to be swapped, assuming that the array is indexed from 1 to n.
+- If elements can only be reversed, for the segment d[1...r], output reverse l r in the second line. l and r are the indices of the first and last elements of the subarray to be reversed, assuming that the array is indexed from 1 to n. Here d[1...r] represents the subarray that begins at index l and ends at index r, both inclusive.
+If an array can be sorted both ways, by using either swap or reverse, choose swap. 
+3. If the array cannot be sorted either way, output no on the first line.
