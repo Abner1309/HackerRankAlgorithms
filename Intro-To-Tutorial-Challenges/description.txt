@@ -1,0 +1,1 @@
+This is a simple challenge to get things started. Given a sorted array (arr) and a number (V), can you print the index location of V in the array? 
