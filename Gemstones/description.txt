@@ -1,0 +1,3 @@
+Juninho discovered several rocks. Each rock is composed of various elements, and each element is represented by a lowercase Latin letter from 'a' to 'z'. An element may appear multiple times within a single rock. An element is called a "gem-element" if it occurs at least once in every one of the rocks.
+
+Given the list of rocks and their compositions, you must output the number of different types of gem-elements that Juninho has.
