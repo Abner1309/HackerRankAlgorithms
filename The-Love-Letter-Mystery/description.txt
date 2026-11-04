@@ -1,0 +1,8 @@
+James pegou uma carta de amor que seu amigo Harry escreveu para sua namorada. Como é muito brincalhão, James decidiu pregar uma peça em seu amigo e modificou todas as palavras da carta por [palíndromos] (https://pt.wikipedia.org/wiki/Pal%C3%ADndromo).
+
+Ao modificar as letras da palavra, ele seguiu duas regras:
+
+(a) Ele só poderia reduzir o valor da letra. Por exemplo, ele poderia trocar de 'd' para 'c', mas não poderia trocar de 'c' para 'd'. (b) Se ele tivesse que modificar repetidamente o valor de uma letra, ele poderia fazê-lo até a letra se tornar 'a'. Uma vez que a letra fosse alterada para 'a', ela não poderia mais ser modificada.
+
+Cada redução no valor de qualquer letra é contabilizada como uma única operação. Encontre o número mínimo de operações que ele realiza para converter uma determinada string em um palíndromo.
+
